@@ -1,6 +1,6 @@
 # ☕ First Coffee Agent
 
-First Coffee Agent is a lean, vendor-neutral GitHub Copilot custom agent for a data engineer's morning operational check.
+First Coffee Agent is a lean, GitHub Copilot custom agent for a data engineer's morning operational check.
 
 It uses whatever read-only MCP and data-platform tools are available to inspect the previous 24 hours, summarize workflow and ingestion health, check freshness and incremental counts, investigate abnormal conditions, and produce a standalone professional coffee-themed HTML brief.
 
